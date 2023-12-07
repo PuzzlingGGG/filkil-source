@@ -3,9 +3,6 @@ PUT THESE IN A ZIP AND RENAME THE ZIP TO SB3 THEN USE TURBOWARP (https://turbowa
 1. do the same as above
 2. instead of going to https://turbowarp.org/editor you wanna go to https://packager.turbowarp.org and follow the steps there
 use these settings:
-Runtime Options
-Note: This project has settings stored in it, which may override these settings.
- Turbo Mode
 Framerate : 30
 Interpolation (true)
  High Quality Pen (true)
