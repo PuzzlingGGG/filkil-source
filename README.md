@@ -12,3 +12,4 @@ Interpolation (true)
  Close window when project stops (true)
 Custom Stage Size : 640 × 360
 Start project automatically instead of showing a big green flag (true)
+Cloud Variables Mode Store in local storage
